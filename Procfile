@@ -1,0 +1,1 @@
+web: gunicorn AgileApi.wsgi --log-file -
