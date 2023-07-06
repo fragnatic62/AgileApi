@@ -3,7 +3,7 @@ attrs==22.2.0
 colorama==0.4.6
 coverage==7.2.1
 dj-database-url==1.2.0
-Django==4.1.9
+Django==4.1.10
 django-simple-history==3.2.0
 djangorestframework==3.14.0
 gunicorn==20.1.0
